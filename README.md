@@ -80,23 +80,29 @@ python src/scheduler.py
 
 ## Architecture
 
-![Architecture](screenshots/architecture.png)
+<img width="537" height="301" alt="architecture" src="https://github.com/user-attachments/assets/71f645ce-8c16-4dbe-9b20-a2be45969ce4" />
+
+
 
 ## API Response
 
-![API](screenshots/api_response.png)
+<img width="1763" height="940" alt="api_response" src="https://github.com/user-attachments/assets/203235f6-92d9-495f-91cc-52b918236997" />
+
 
 ## Processed Data
 
-![Processed](screenshots/processed_data.png)
+<img width="1777" height="1056" alt="processed_data" src="https://github.com/user-attachments/assets/fd4e6721-451d-4aa2-9bc9-79e4e4e840fd" />
+
 
 ## SQLite
 
-![SQLite](screenshots/sqlite_table.png)
+<img width="1421" height="973" alt="sqlite_table" src="https://github.com/user-attachments/assets/db88ffcf-3af8-4e7f-82df-87033aa75acb" />
+
 
 ## Logs
 
-![Logs](screenshots/logs.png)
+<img width="1918" height="1025" alt="logs" src="https://github.com/user-attachments/assets/aa4c64df-5d7b-45ff-af2a-9189693d018f" />
+
 
 ---
 
